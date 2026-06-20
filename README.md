@@ -16,7 +16,12 @@
 
 ## Live Demo
 
+Prefer --->
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finquery-ai.streamlit.app/)
+
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-yellow)](https://huggingface.co/spaces/Nik0007/FinQuery_AI)
+
 
 
 ## 📑 Table of Contents
